@@ -1,0 +1,7 @@
+{
+  "name": "Iara App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
